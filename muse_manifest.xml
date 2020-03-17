@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584418096925">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584424501272">
   <folder name="css">
     <file name="site_global.css" crc="4195212713"/>
     <file name="master_a-master.css" crc="4270727022" ref="index:newsletter--17--remidi-19:tech--remidi-19:about--remidi-19:volunteer--remidi-19"/>
-    <file name="index.css" crc="165175248" ref="index"/>
+    <file name="index.css" crc="4135260255" ref="index"/>
     <file name="newsletter--17--remidi-19.css" crc="500548260" ref="newsletter--17--remidi-19"/>
     <file name="iefonts_newsletter--17--remidi-19.css" crc="14204210" ref="newsletter--17--remidi-19"/>
     <file name="tech--remidi-19.css" crc="4208158768" ref="tech--remidi-19"/>
-    <file name="about--remidi-19.css" crc="3758973484" ref="about--remidi-19"/>
+    <file name="about--remidi-19.css" crc="3850786158" ref="about--remidi-19"/>
     <file name="iefonts_about--remidi-19.css" crc="4177841495" ref="about--remidi-19"/>
     <file name="volunteer--remidi-19.css" crc="4278366648" ref="volunteer--remidi-19"/>
   </folder>
@@ -24,7 +24,7 @@
     <file name="require.js" crc="3861931657" ref="about--remidi-19:volunteer--remidi-19:tech--remidi-19:newsletter--17--remidi-19:index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="145196351" ref="about--remidi-19:index"/>
+    <file name="favicon.ico" crc="145196351" ref="about--remidi-19"/>
     <file name="u223-4.png" crc="3960235248" ref="about--remidi-19"/>
     <file name="u232-5.png" crc="3915503185" ref="about--remidi-19"/>
     <file name="u238-4.png" crc="477540275" ref="about--remidi-19"/>
@@ -63,10 +63,13 @@
     </file>
     <file name="u721-5.png" crc="4112763044" ref="index"/>
     <file name="u734-4.png" crc="311448751" ref="index"/>
+    <file name="imageedit_10_9370882410.png" crc="525763257" seo="true" ref="about--remidi-19">
+      <caption webpage="about--remidi-19" alt=""/>
+    </file>
   </folder>
-  <file name="about--remidi-19.html" crc="131925019" seo="true" mt="1584415933167" redirect="true"/>
+  <file name="about--remidi-19.html" crc="3984843371" seo="true" mt="1584424482816" redirect="true"/>
   <file name="volunteer--remidi-19.html" crc="4104457052" seo="true" mt="1584415933167" redirect="true"/>
   <file name="tech--remidi-19.html" crc="180401745" seo="true" mt="1584415933167" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="4195987599" seo="true" mt="1584415933167" redirect="true"/>
-  <file name="index.html" crc="189381724" seo="true" mt="1584418085281" redirect="true"/>
+  <file name="index.html" crc="4170460017" seo="true" mt="1584421189481" redirect="true"/>
 </manifest>
