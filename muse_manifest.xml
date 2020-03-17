@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584415080306">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584418096925">
   <folder name="css">
     <file name="site_global.css" crc="4195212713"/>
-    <file name="master_a-master.css" crc="298521986" ref="index:newsletter--17--remidi-19:tech--remidi-19:about--remidi-19:volunteer--remidi-19"/>
-    <file name="index.css" crc="420596062" ref="index"/>
+    <file name="master_a-master.css" crc="4270727022" ref="index:newsletter--17--remidi-19:tech--remidi-19:about--remidi-19:volunteer--remidi-19"/>
+    <file name="index.css" crc="165175248" ref="index"/>
     <file name="newsletter--17--remidi-19.css" crc="500548260" ref="newsletter--17--remidi-19"/>
     <file name="iefonts_newsletter--17--remidi-19.css" crc="14204210" ref="newsletter--17--remidi-19"/>
     <file name="tech--remidi-19.css" crc="4208158768" ref="tech--remidi-19"/>
@@ -57,15 +57,16 @@
     <file name="noun_virus_3000339.png" crc="315496063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u595-4.png" crc="311448751" ref="index"/>
+    <file name="u595-4.png" crc="4051380480" ref="index"/>
     <file name="imageedit_2_5905902842.png" crc="274634159" seo="true" ref="about--remidi-19">
       <caption webpage="about--remidi-19" alt=""/>
     </file>
-    <file name="u671-5.png" crc="4112763044" ref="index"/>
+    <file name="u721-5.png" crc="4112763044" ref="index"/>
+    <file name="u734-4.png" crc="311448751" ref="index"/>
   </folder>
-  <file name="about--remidi-19.html" crc="141616689" seo="true" mt="1584399499057" redirect="true"/>
-  <file name="volunteer--remidi-19.html" crc="3922546122" seo="true" mt="1584294437216" redirect="true"/>
-  <file name="tech--remidi-19.html" crc="4188975431" seo="true" mt="1584294437216" redirect="true"/>
-  <file name="newsletter--17--remidi-19.html" crc="122480388" seo="true" mt="1584294437216" redirect="true"/>
-  <file name="index.html" crc="4232299775" seo="true" mt="1584415075985" redirect="true"/>
+  <file name="about--remidi-19.html" crc="131925019" seo="true" mt="1584415933167" redirect="true"/>
+  <file name="volunteer--remidi-19.html" crc="4104457052" seo="true" mt="1584415933167" redirect="true"/>
+  <file name="tech--remidi-19.html" crc="180401745" seo="true" mt="1584415933167" redirect="true"/>
+  <file name="newsletter--17--remidi-19.html" crc="4195987599" seo="true" mt="1584415933167" redirect="true"/>
+  <file name="index.html" crc="189381724" seo="true" mt="1584418085281" redirect="true"/>
 </manifest>
