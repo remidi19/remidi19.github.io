@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584508381456">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1584516868558">
   <folder name="css">
     <file name="site_global.css" crc="4195212713"/>
-    <file name="master_a-master.css" crc="363324211" ref="newsletter--17--remidi-19:index:tech:volunteer:about"/>
-    <file name="newsletter--17--remidi-19.css" crc="500548260" ref="newsletter--17--remidi-19"/>
+    <file name="master_a-master.css" crc="86212653" ref="newsletter--17--remidi-19:index:tech:volunteer:about"/>
+    <file name="newsletter--17--remidi-19.css" crc="4001410419" ref="newsletter--17--remidi-19"/>
     <file name="iefonts_newsletter--17--remidi-19.css" crc="14204210" ref="newsletter--17--remidi-19"/>
-    <file name="index.css" crc="309480161" ref="index"/>
+    <file name="index.css" crc="4162379382" ref="index"/>
     <file name="tech.css" crc="4208158768" ref="tech"/>
-    <file name="volunteer.css" crc="4278366648" ref="volunteer"/>
+    <file name="volunteer.css" crc="336352446" ref="volunteer"/>
     <file name="about.css" crc="3850786158" ref="about"/>
     <file name="iefonts_about.css" crc="4177841495" ref="about"/>
   </folder>
@@ -22,14 +22,15 @@
     <file name="museconfig.js" crc="144853533" ref="about:volunteer:tech:newsletter--17--remidi-19:index"/>
     <file name="jquery.watch.js" crc="4240030481" ref="about:volunteer:tech:newsletter--17--remidi-19:index"/>
     <file name="require.js" crc="3861931657" ref="about:volunteer:tech:newsletter--17--remidi-19:index"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index:volunteer"/>
+    <file name="form_check.php" crc="4110044762" ref="volunteer"/>
+    <file name="form_throttle.php" crc="22190333" ref="volunteer"/>
+    <file name="form_process.php" crc="257545537" ref="volunteer"/>
     <file name="form-u874.php" crc="434927669" ref="index"/>
+    <file name="form-u986.php" crc="67605751" ref="volunteer"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="145196351" ref="about"/>
+    <file name="favicon.ico" crc="145196351" ref="about:volunteer"/>
     <file name="imageedit_2_5905902842.png" crc="274634159" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -70,8 +71,9 @@
     <file name="u734-4.png" crc="311448751" ref="index"/>
     <file name="u799-5.png" crc="10673858" ref="index"/>
     <file name="u598-5.png" crc="351713107" ref="index"/>
-    <file name="noun_virus_3000339.png" crc="315496063" seo="true" ref="index">
+    <file name="noun_virus_3000339.png" crc="315496063" seo="true" ref="index:newsletter--17--remidi-19">
       <caption webpage="index" alt=""/>
+      <caption webpage="newsletter--17--remidi-19" alt=""/>
     </file>
     <file name="u800-4.png" crc="3790182866" ref="index"/>
     <file name="u925-4.png" crc="3776051186" ref="index"/>
@@ -79,10 +81,17 @@
     <file name="u595-4.png" crc="4051380480" ref="index"/>
     <file name="u937-4.png" crc="427036721" ref="index"/>
     <file name="u939-4.png" crc="3859043907" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="volunteer"/>
+    <file name="u990.png" crc="3840214559" ref="volunteer"/>
+    <file name="u990-ferr.png" crc="4261839533" ref="volunteer"/>
+    <file name="u992.png" crc="4246475223" ref="volunteer"/>
+    <file name="u992-ferr.png" crc="265373556" ref="volunteer"/>
+    <file name="u1000.png" crc="223502678" ref="volunteer"/>
+    <file name="u1000-ferr.png" crc="235867100" ref="volunteer"/>
   </folder>
-  <file name="about.html" crc="4109817602" seo="true" mt="1584424625879" redirect="true"/>
-  <file name="volunteer.html" crc="3777651568" seo="true" mt="1584424625879" redirect="true"/>
-  <file name="tech.html" crc="3825776337" seo="true" mt="1584424625882" redirect="true"/>
-  <file name="newsletter--17--remidi-19.html" crc="36531373" seo="true" mt="1584424625879" redirect="true"/>
-  <file name="index.html" crc="4276025426" seo="true" mt="1584495493551" redirect="true"/>
+  <file name="about.html" crc="361452667" seo="true" mt="1584513511255" redirect="true"/>
+  <file name="volunteer.html" crc="3811870155" seo="true" mt="1584516808057" redirect="true"/>
+  <file name="tech.html" crc="3982983787" seo="true" mt="1584513511255" redirect="true"/>
+  <file name="newsletter--17--remidi-19.html" crc="4204686886" seo="true" mt="1584514405010" redirect="true"/>
+  <file name="index.html" crc="3987957660" seo="true" mt="1584516843543" redirect="true"/>
 </manifest>
