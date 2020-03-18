@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
+  alert = function() {};
    // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
@@ -56,20 +57,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="fld-grp clearfix colelem" id="widgetu875" data-required="true"><!-- none box -->
         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u876-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u876-3"><input class="wrapped-input" type="text" spellcheck="false" id="widgetu875_input" name="custom_U875" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu875_prompt" for="widgetu875_input"><span class="actAsPara">Enter State (e.g. Arizona)</span></label></div></span>
        </div>
-       <button class="submit-btn NoWrap clearfix colelem" id="u890-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" type="submit" value="Submit" tabindex="2"><!-- content -->
+       <button class="submit-btn NoWrap clearfix colelem" id="u890-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" type="submit" value="Submit" tabindex="2" onclick="postValue();"><!-- content -->
         <div style="margin-top:-12px;height:12px;">
          <p>Submit</p>
         </div>
        </button>
        <div class="clearfix colelem" id="pu883-4"><!-- group -->
         <div class="clearfix grpelem" id="u883-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>Submitting Form...</p>
         </div>
         <div class="clearfix grpelem" id="u889-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>The server encountered an error.</p>
         </div>
         <div class="clearfix grpelem" id="u884-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>Form received.</p>
         </div>
        </div>
       </div>
