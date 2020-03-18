@@ -51,27 +51,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <img class="colelem" id="u818-4" alt="RISK BY STATE (U.S.)" src="images/u818-4.png?crc=257323905" data-image-width="244"/><!-- rasterized frame -->
     <div class="clearfix colelem" id="pu743"><!-- group -->
      <div class="grpelem" id="u743" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
-     <form class="form-grp clearfix grpelem" id="widgetu874" method="post" enctype="multipart/form-data" action="scripts/form-u874.php"><!-- none box -->
+     <form class="form-grp clearfix grpelem" id="widgetu874" method="post" enctype="multipart/form-data"><!-- none box -->
       <div class="clearfix grpelem" id="pwidgetu875"><!-- column -->
        <div class="fld-grp clearfix colelem" id="widgetu875" data-required="true"><!-- none box -->
         <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u876-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><div id="u876-3"><input class="wrapped-input" type="text" spellcheck="false" id="widgetu875_input" name="custom_U875" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu875_prompt" for="widgetu875_input"><span class="actAsPara">Enter State (e.g. Arizona)</span></label></div></span>
        </div>
-       <button class="submit-btn NoWrap clearfix colelem" id="u890-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" type="submit" value="Submit" tabindex="2"><!-- content -->
+       <button class="submit-btn NoWrap clearfix colelem" id="u890-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" type="submit" onclick="postValue();" value="Submit" tabindex="2"><!-- content -->
         <div style="margin-top:-12px;height:12px;">
          <p>Submit</p>
         </div>
        </button>
-       <div class="clearfix colelem" id="pu883-4"><!-- group -->
-        <div class="clearfix grpelem" id="u883-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>Submitting Form...</p>
-        </div>
-        <div class="clearfix grpelem" id="u889-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>The server encountered an error.</p>
-        </div>
-        <div class="clearfix grpelem" id="u884-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-         <p>Form received.</p>
-        </div>
-       </div>
       </div>
      </form>
      <img class="grpelem" id="u946-4" alt="(global insights coming soon!)" src="images/u946-4.png?crc=225886262" data-image-width="484"/><!-- rasterized frame -->
@@ -200,7 +189,7 @@ var suppressMissingFileError = false
    window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
-f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f))};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
