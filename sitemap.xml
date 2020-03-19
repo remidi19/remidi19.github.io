@@ -6,7 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339180x181.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://remidi19.org/about.html</loc>
-    <lastmod>2020-03-17</lastmod>
+    <lastmod>2020-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,23 +32,32 @@
   </url>
   <url>
     <loc>http://remidi19.org/newsletter--17--remidi-19.html</loc>
-    <lastmod>2020-03-17</lastmod>
+    <lastmod>2020-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339211x212.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339181x181.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339127x127.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_300033979x79.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://remidi19.org/tech.html</loc>
-    <lastmod>2020-03-17</lastmod>
+    <lastmod>2020-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_blockchain_2133324-crop-u297.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_blockchain_2133324.png</image:loc>
     </image:image>
   </url>
 </urlset>
