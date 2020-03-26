@@ -6,15 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339211x212.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339181x181.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339127x127.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://remidi19.org/images/noun_virus_3000339180x181.png</image:loc>
     </image:image>
   </url>
@@ -33,16 +24,16 @@
       <image:loc>http://remidi19.org/images/imageedit_2_5905902842.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://remidi19.org/images/imageedit_3_4607742930.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://remidi19.org/images/imageedit_10_9370882410.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://remidi19.org/images/imageedit_4_5560120236.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://remidi19.org/images/imageedit_3_4607742930.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://remidi19.org/images/imageedit_2_8573330264.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/imageedit_10_9370882410.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -69,10 +60,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_blockchain_2133324.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_blockchain_2133324.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://remidi19.org/images/noun_3d%20printer_2614773.png</image:loc>
