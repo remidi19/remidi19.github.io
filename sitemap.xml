@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://remidi19.org/index.html</loc>
-    <lastmod>2020-03-26</lastmod>
+    <lastmod>2020-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339211x212.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339181x181.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_virus_3000339127x127.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://remidi19.org/images/noun_virus_3000339180x181.png</image:loc>
     </image:image>
@@ -14,6 +23,21 @@
     <lastmod>2020-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://remidi19.org/tech.html</loc>
+    <lastmod>2020-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_blockchain_2133324.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/noun_3d%20printer_2614773.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://remidi19.org/about.html</loc>
@@ -55,18 +79,24 @@
     </image:image>
   </url>
   <url>
-    <loc>http://remidi19.org/tech.html</loc>
-    <lastmod>2020-03-26</lastmod>
+    <loc>http://remidi19.org/our-risk-factor--remidi-19.html</loc>
+    <lastmod>2020-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_blockchain_2133324.png</image:loc>
+      <image:loc>http://remidi19.org/images/noun_calculations_2310938.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_machine%20learning_1348731.png</image:loc>
+      <image:loc>http://remidi19.org/images/the-process-of-applying-supervised-machine-learning-to-a-real-world-problem-kotsiantis.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_3d%20printer_2614773.png</image:loc>
+      <image:loc>http://remidi19.org/images/an-example-of-blockchain-which-consists-of-a-continuous-sequence-of-blocks.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/the-process-of-applying-supervised-machine-learning-to-a-real-world-problem-kotsiantis195x251.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/the-process-of-applying-supervised-machine-learning-to-a-real-world-problem-kotsiantis121x155.png</image:loc>
     </image:image>
   </url>
 </urlset>
