@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1585586468795">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1585586575455">
   <folder name="css">
     <file name="site_global.css" crc="4195212713"/>
     <file name="master_a-master.css" crc="101363542" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
@@ -173,6 +173,6 @@
   <file name="volunteer.html" crc="64001929" seo="true" mt="1585586461104" redirect="true"/>
   <file name="tech.html" crc="3796658837" seo="true" mt="1585585221220" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="42626897" seo="true" mt="1585585221220" redirect="true"/>
-  <file name="index.html" crc="205183924" seo="true" mt="1585586288906" redirect="true"/>
+  <file name="index.html" crc="233385737" seo="true" mt="1585586569505" redirect="true"/>
   <file name="our-risk-factor--remidi-19.html" crc="4192318487" seo="true" mt="1585585221220" redirect="true"/>
 </manifest>

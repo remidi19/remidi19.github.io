@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-	  alert = function(){};
    // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
@@ -127,6 +126,9 @@ newElement.setAttribute("onclick", "postValue();");
       <script>
 
 var element = document.getElementById("u889-4");
+element.parentNode.removeChild(element);
+
+var element = document.getElementById("u883-4");
 element.parentNode.removeChild(element);
 
 </script>
