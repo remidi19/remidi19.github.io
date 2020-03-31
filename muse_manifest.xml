@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1585639524852">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1585692674134">
   <folder name="css">
-    <file name="site_global.css" crc="334675352"/>
-    <file name="master_a-master.css" crc="4069317722" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
+    <file name="site_global.css" crc="4195212713"/>
+    <file name="master_a-master.css" crc="293410858" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
     <file name="nomq_preview_master_a-master.css" crc="220487392" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
     <file name="index.css" crc="4042299252" ref="index"/>
     <file name="nomq_index.css" crc="4245876851" ref="index"/>
@@ -11,7 +11,7 @@
     <file name="nomq_tech.css" crc="4246181020" ref="tech"/>
     <file name="volunteer.css" crc="4009967729" ref="volunteer"/>
     <file name="nomq_volunteer.css" crc="4019761288" ref="volunteer"/>
-    <file name="about.css" crc="4067277409" ref="about"/>
+    <file name="about.css" crc="333788130" ref="about"/>
     <file name="nomq_about.css" crc="504801507" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
     <file name="newsletter--17--remidi-19.css" crc="4129860355" ref="newsletter--17--remidi-19"/>
@@ -47,12 +47,6 @@
     </file>
     <file name="u232-5.png" crc="3915503185" ref="about"/>
     <file name="imageedit_4_5560120236.png" crc="4354594" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="imageedit_3_4607742930.png" crc="195282846" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -168,8 +162,14 @@
     <file name="the-process-of-applying-supervised-machine-learning-to-a-real-world-problem-kotsiantis148x189.png" crc="180061546" seo="true" ref="our-risk-factor--remidi-19">
       <caption webpage="our-risk-factor--remidi-19" alt=""/>
     </file>
+    <file name="imageedit_9_8509142104.png" crc="477594453" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="about.html" crc="399677534" seo="true" mt="1585639475633" redirect="true"/>
+  <file name="about.html" crc="102686768" seo="true" mt="1585692659070" redirect="true"/>
   <file name="volunteer.html" crc="3927552262" seo="true" mt="1585639475633" redirect="true"/>
   <file name="tech.html" crc="3997047353" seo="true" mt="1585639475633" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="4230624458" seo="true" mt="1585639475633" redirect="true"/>
