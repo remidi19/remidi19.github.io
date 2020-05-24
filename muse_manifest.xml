@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1587150289651">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1590347845418">
   <folder name="css">
     <file name="site_global.css" crc="4195212713"/>
-    <file name="master_a-master.css" crc="3968235206" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
+    <file name="master_a-master.css" crc="4063891062" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
     <file name="nomq_preview_master_a-master.css" crc="220487392" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
-    <file name="index.css" crc="265326068" ref="index"/>
-    <file name="nomq_index.css" crc="3854373054" ref="index"/>
-    <file name="our-risk-factor--remidi-19.css" crc="464719259" ref="our-risk-factor--remidi-19"/>
+    <file name="index.css" crc="4037489554" ref="index"/>
+    <file name="nomq_index.css" crc="230140848" ref="index"/>
+    <file name="our-risk-factor--remidi-19.css" crc="369095863" ref="our-risk-factor--remidi-19"/>
     <file name="nomq_our-risk-factor--remidi-19.css" crc="4229707449" ref="our-risk-factor--remidi-19"/>
-    <file name="tech.css" crc="440131542" ref="tech"/>
-    <file name="nomq_tech.css" crc="3898995099" ref="tech"/>
-    <file name="volunteer.css" crc="88592537" ref="volunteer"/>
-    <file name="nomq_volunteer.css" crc="403148352" ref="volunteer"/>
+    <file name="tech.css" crc="4265079743" ref="tech"/>
+    <file name="nomq_tech.css" crc="195910483" ref="tech"/>
+    <file name="volunteer.css" crc="3971130384" ref="volunteer"/>
+    <file name="nomq_volunteer.css" crc="4274525781" ref="volunteer"/>
     <file name="about.css" crc="3997423527" ref="about"/>
     <file name="nomq_about.css" crc="489699495" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
@@ -31,14 +31,14 @@
     <file name="jquery.museresponsive.js" crc="4267800278" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="require.js" crc="3861931657" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="webpro.js" crc="416662029" ref="volunteer:index"/>
-    <file name="form_check.php" crc="4110044762" ref="volunteer:index"/>
-    <file name="form_throttle.php" crc="22190333" ref="volunteer:index"/>
-    <file name="form_process.php" crc="257545537" ref="volunteer:index"/>
+    <file name="form_check.php" crc="4110044762" ref="volunteer"/>
+    <file name="form_throttle.php" crc="22190333" ref="volunteer"/>
+    <file name="form_process.php" crc="257545537" ref="volunteer"/>
     <file name="form-u986.php" crc="67605751" ref="volunteer"/>
     <file name="form-u874.php" crc="434927669" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3771963379" ref="about"/>
+    <file name="favicon.ico" crc="3771963379" ref="about:volunteer"/>
     <file name="imageedit_2_5905902842.png" crc="274634159" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -63,39 +63,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
-    <file name="u990.png" crc="122030621" ref="volunteer"/>
-    <file name="u990-ferr.png" crc="143911342" ref="volunteer"/>
-    <file name="u992.png" crc="492374956" ref="volunteer"/>
-    <file name="u992-ferr.png" crc="366866441" ref="volunteer"/>
-    <file name="u1000.png" crc="82189589" ref="volunteer"/>
-    <file name="u1000-ferr.png" crc="158540917" ref="volunteer"/>
-    <file name="u9902.png" crc="487676150" ref="volunteer"/>
-    <file name="u990-ferr2.png" crc="3771787989" ref="volunteer"/>
-    <file name="u9922.png" crc="4189680323" ref="volunteer"/>
-    <file name="u992-ferr2.png" crc="340888967" ref="volunteer"/>
-    <file name="u10002.png" crc="49096821" ref="volunteer"/>
-    <file name="u1000-ferr2.png" crc="4143246842" ref="volunteer"/>
-    <file name="u9903.png" crc="487676150" ref="volunteer"/>
-    <file name="u990-ferr3.png" crc="3771787989" ref="volunteer"/>
-    <file name="u9923.png" crc="4189680323" ref="volunteer"/>
-    <file name="u992-ferr3.png" crc="340888967" ref="volunteer"/>
-    <file name="u10003.png" crc="49096821" ref="volunteer"/>
-    <file name="u1000-ferr3.png" crc="4143246842" ref="volunteer"/>
-    <file name="u9904.png" crc="487676150" ref="volunteer"/>
-    <file name="u990-ferr4.png" crc="3771787989" ref="volunteer"/>
-    <file name="u9924.png" crc="4189680323" ref="volunteer"/>
-    <file name="u992-ferr4.png" crc="340888967" ref="volunteer"/>
-    <file name="u10004.png" crc="49096821" ref="volunteer"/>
-    <file name="u1000-ferr4.png" crc="4143246842" ref="volunteer"/>
-    <file name="u931-4.png" crc="4100375761" ref="index"/>
-    <file name="u939-4.png" crc="4100375761" ref="index"/>
-    <file name="u931-42.png" crc="366620692" ref="index"/>
-    <file name="u939-42.png" crc="366620692" ref="index"/>
-    <file name="u931-43.png" crc="3929977787" ref="index"/>
-    <file name="u939-43.png" crc="3929977787" ref="index"/>
-    <file name="u931-44.png" crc="4058497959" ref="index"/>
-    <file name="u939-44.png" crc="3797995832" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="about:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="the-process-of-applying-supervised-machine-learning-to-a-real-world-problem-kotsiantis.png" crc="4249023854" seo="true" ref="our-risk-factor--remidi-19">
       <caption webpage="our-risk-factor--remidi-19" alt=""/>
       <caption webpage="our-risk-factor--remidi-19" alt=""/>
@@ -151,7 +119,7 @@
       <caption webpage="newsletter--17--remidi-19" alt=""/>
       <caption webpage="newsletter--17--remidi-19" alt=""/>
     </file>
-    <file name="noun_virus_3000339180x181_poster_.png" crc="4115706050" ref="newsletter--17--remidi-19"/>
+    <file name="noun_virus_3000339180x181_poster_.png" crc="4115706050" ref="newsletter--17--remidi-19:index"/>
     <file name="noun_calculations_2310938160x113.svg" crc="201186958" seo="true" ref="our-risk-factor--remidi-19">
       <caption webpage="our-risk-factor--remidi-19" alt=""/>
       <caption webpage="our-risk-factor--remidi-19" alt=""/>
@@ -161,9 +129,9 @@
     <file name="noun_calculations_2310938160x113_poster_.png" crc="3934197011" ref="our-risk-factor--remidi-19"/>
   </folder>
   <file name="about.html" crc="4091112638" seo="true" mt="1587150277162" redirect="true"/>
-  <file name="volunteer.html" crc="3879955226" seo="true" mt="1587079752003" redirect="true"/>
-  <file name="tech.html" crc="4034240685" seo="true" mt="1587150279067" redirect="true"/>
+  <file name="volunteer.html" crc="3927052071" seo="true" mt="1590347561077" redirect="true"/>
+  <file name="tech.html" crc="211742310" seo="true" mt="1590347774916" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="3892370934" seo="true" mt="1587150226416" redirect="true"/>
-  <file name="index.html" crc="185669286" seo="true" mt="1587150239218" redirect="true"/>
-  <file name="our-risk-factor--remidi-19.html" crc="146955013" seo="true" mt="1587150283364" redirect="true"/>
+  <file name="index.html" crc="86401420" seo="true" mt="1590347524327" redirect="true"/>
+  <file name="our-risk-factor--remidi-19.html" crc="4002229714" seo="true" mt="1590347790391" redirect="true"/>
 </manifest>
