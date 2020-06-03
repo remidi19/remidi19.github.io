@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://remidi19.org/index.html</loc>
-    <lastmod>2020-05-24</lastmod>
+    <lastmod>2020-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://remidi19.org/images/noun_virus_3000339180x181.svg</image:loc>
+      <image:loc>http://remidi19.org/images/world_health_organization_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/the_salvation_army.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/us_cdc_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/arizona_state_university_logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://remidi19.org/images/feeding_america_logo.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -32,7 +44,7 @@
   </url>
   <url>
     <loc>http://remidi19.org/about.html</loc>
-    <lastmod>2020-04-17</lastmod>
+    <lastmod>2020-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +77,7 @@
   </url>
   <url>
     <loc>http://remidi19.org/our-risk-factor--remidi-19.html</loc>
-    <lastmod>2020-05-24</lastmod>
+    <lastmod>2020-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
