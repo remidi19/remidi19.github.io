@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1591225485662">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1592414946406">
   <folder name="css">
-    <file name="site_global.css" crc="334675352"/>
-    <file name="master_a-master.css" crc="417084382" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
+    <file name="site_global.css" crc="4195212713"/>
+    <file name="master_a-master.css" crc="3858791796" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
     <file name="nomq_preview_master_a-master.css" crc="220487392" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
-    <file name="index.css" crc="54930439" ref="index"/>
+    <file name="index.css" crc="4030441377" ref="index"/>
     <file name="nomq_index.css" crc="38220052" ref="index"/>
     <file name="our-risk-factor--remidi-19.css" crc="401213617" ref="our-risk-factor--remidi-19"/>
     <file name="nomq_our-risk-factor--remidi-19.css" crc="4229707449" ref="our-risk-factor--remidi-19"/>
@@ -26,7 +26,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="museutils.js" crc="17924269" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="whatinput.js" crc="86476730" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
-    <file name="museconfig.js" crc="144853533" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
+    <file name="museconfig.js" crc="533079045" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="jquery.watch.js" crc="4240030481" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
     <file name="require.js" crc="3861931657" ref="about:volunteer:tech:newsletter--17--remidi-19:index:our-risk-factor--remidi-19"/>
@@ -155,18 +155,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="arizona_state_university_logo_poster_.png" crc="4136728510" ref="index"/>
-    <file name="feeding_america_logo.svg" crc="267824627" seo="true" ref="index">
+    <file name="feeding_america_logo.svg" crc="459353012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="feeding_america_logo_poster_.png" crc="334289838" ref="index"/>
+    <file name="feeding_america_logo_poster_.png" crc="264224047" ref="index"/>
   </folder>
   <file name="about.html" crc="3925717834" seo="true" mt="1591224480983" redirect="true"/>
   <file name="volunteer.html" crc="3927052071" seo="true" mt="1590347561077" redirect="true"/>
   <file name="tech.html" crc="211742310" seo="true" mt="1590347774916" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="3892370934" seo="true" mt="1587150226416" redirect="true"/>
-  <file name="index.html" crc="470290614" seo="true" mt="1591225450048" redirect="true"/>
+  <file name="index.html" crc="3885279718" seo="true" mt="1592414940628" redirect="true"/>
   <file name="our-risk-factor--remidi-19.html" crc="4267021450" seo="true" mt="1591222916878" redirect="true"/>
 </manifest>
