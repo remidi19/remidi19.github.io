@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1592414946406">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="remidi19.org" resolutions="1x" timestamp="1609712724809">
   <folder name="css">
-    <file name="site_global.css" crc="4195212713"/>
-    <file name="master_a-master.css" crc="3858791796" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
+    <file name="site_global.css" crc="334675352"/>
+    <file name="master_a-master.css" crc="4145526977" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
     <file name="nomq_preview_master_a-master.css" crc="220487392" ref="index:our-risk-factor--remidi-19:tech:volunteer:about:newsletter--17--remidi-19"/>
-    <file name="index.css" crc="4030441377" ref="index"/>
-    <file name="nomq_index.css" crc="38220052" ref="index"/>
+    <file name="index.css" crc="4157920183" ref="index"/>
+    <file name="nomq_index.css" crc="422837726" ref="index"/>
     <file name="our-risk-factor--remidi-19.css" crc="401213617" ref="our-risk-factor--remidi-19"/>
     <file name="nomq_our-risk-factor--remidi-19.css" crc="4229707449" ref="our-risk-factor--remidi-19"/>
     <file name="tech.css" crc="4265079743" ref="tech"/>
@@ -167,6 +167,6 @@
   <file name="volunteer.html" crc="3927052071" seo="true" mt="1590347561077" redirect="true"/>
   <file name="tech.html" crc="211742310" seo="true" mt="1590347774916" redirect="true"/>
   <file name="newsletter--17--remidi-19.html" crc="3892370934" seo="true" mt="1587150226416" redirect="true"/>
-  <file name="index.html" crc="3885279718" seo="true" mt="1592414940628" redirect="true"/>
+  <file name="index.html" crc="342469072" seo="true" mt="1609712720316" redirect="true"/>
   <file name="our-risk-factor--remidi-19.html" crc="4267021450" seo="true" mt="1591222916878" redirect="true"/>
 </manifest>
